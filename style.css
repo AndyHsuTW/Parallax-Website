@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:500,600,700,800,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;800;900&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Noto Sans TC', 'Poppins', 'Microsoft JhengHei', 'PingFang TC', 'Apple LiGothic', sans-serif;
     color: white;
 }
 
@@ -117,7 +118,7 @@ section #text {
     font-size: 10vw;
     text-align: center;
     line-height: 0.55em;
-    font-family: 'Rancho', cursive;
+    font-family: 'Noto Sans TC', 'Microsoft JhengHei', 'PingFang TC', 'Apple LiGothic', 'Rancho', cursive;
     transform: translateY(-50%);
     top: 50%;
 }
@@ -192,7 +193,7 @@ section #text {
 
 .sec #name {
     font-size: 1.5em;
-    font-family: 'Rancho', cursive;
+    font-family: 'Noto Sans TC', 'Microsoft JhengHei', 'PingFang TC', 'Apple LiGothic', 'Rancho', cursive;
     letter-spacing: 2px;
     font-weight: 500;
     margin-bottom: 20px;
